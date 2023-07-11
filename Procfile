@@ -1,0 +1,1 @@
+web: guincorn shopping.wsgi --log-file -
